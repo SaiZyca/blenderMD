@@ -1,17 +1,21 @@
 ---
 
-title: Learn Blender documents
+title: BlenderMD
 lang: zh-tw
 description: BookMD Main Index 
-tags: Index, Book, BlenderMD
+tags: BlenderMD, Index, Book
 
 ---
 
-# Learn Blender documents
-
-
+# BlenderMD
 
 View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
+
+Main
+---
+- [留言板](/@blenderMD/Sy-NLujxK)
+- [團隊頁面](https://hackmd.io/@blenderMD)
+
 
 方舟 2021
 ---
